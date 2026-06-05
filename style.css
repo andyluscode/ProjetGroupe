@@ -1,15 +1,15 @@
 .pp{
     box-sizing: border-box;
-    box-shadow: 6px 6px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 6px 6px 5px rgba(0, 0, 0, 0.509);
     padding: 30px;
     width: 550px;
-    background-color: #1E293B;
+    background-color: #d7cdd7;
     border-radius: 20px;
     margin: 20px;
 }
 body{
-    background-color: #0F172A;
-    color: white;
+    background-color: #bd3434ce;
+    color:black(12, 59, 88, 0.151);
 }
 .ange{
 color: #FDE68A;
@@ -22,4 +22,8 @@ color: #FDE68A;
 }
 .bpage{
     color: #F9A8D4;
+}
+
+.van{
+    color:#60A5FA
 }
